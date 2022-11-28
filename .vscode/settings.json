@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "SubstitutionTechniques",
+        "TranspositionTechniques",
+        "SignatureScheme",
+        "NetworkSecurityAlgorithms"
+    ]
+}
